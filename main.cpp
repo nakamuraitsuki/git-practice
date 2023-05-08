@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Hellow World!" << endl;
+    cout << "Hellow Maximum!" << endl;
     return 0;
 }
